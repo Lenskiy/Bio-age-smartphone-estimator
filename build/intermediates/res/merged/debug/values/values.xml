@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rangeColors">
+        <item>#E7202B</item>
+        <item>#E86F21</item>
+        <item>#E8E721</item>
+        <item>#1BCA21</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>16</item>
+        <item>25</item>
+        <item>40</item>
+        <item>100</item>
+    </string-array>
+    <declare-styleable name="GaugeView"><attr format="boolean" name="showOuterShadow"/><attr format="boolean" name="showOuterBorder"/><attr format="boolean" name="showOuterRim"/><attr format="boolean" name="showInnerRim"/><attr format="boolean" name="showNeedle"/><attr format="boolean" name="showScale"/><attr format="boolean" name="showRanges"/><attr format="boolean" name="showText"/><attr format="float" name="outerShadowWidth"/><attr format="float" name="outerBorderWidth"/><attr format="float" name="outerRimWidth"/><attr format="float" name="innerRimWidth"/><attr format="float" name="innerRimBorderWidth"/><attr format="float" name="needleWidth"/><attr format="float" name="needleHeight"/><attr format="float" name="scalePosition"/><attr format="float" name="scaleStartValue"/><attr format="float" name="scaleEndValue"/><attr format="float" name="scaleStartAngle"/><attr format="float" name="scaleEndAngle"/><attr format="integer" name="divisions"/><attr format="integer" name="subdivisions"/><attr format="reference" name="rangeValues"/><attr format="reference" name="rangeColors"/><attr format="string|reference" name="textValue"/><attr format="color" name="textValueColor"/><attr format="float" name="textValueSize"/><attr format="string|reference" name="textUnit"/><attr format="color" name="textUnitColor"/><attr format="float" name="textUnitSize"/><attr format="color" name="textShadowColor"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name"> HeartRate</string>
+    <string name="hello_world">Hello world!</string>
+    <style name="ActionBar.Solid.Mytab" parent="@android:style/Widget.Holo.ActionBar.Solid">
+        <item name="android:background">@drawable/ab_solid_mytab</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_mytab</item>
+        <item name="android:backgroundSplit">@drawable/ab_bottom_solid_mytab</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Mytab</item>
+    </style>
+    <style name="ActionBar.Transparent.Mytab" parent="@android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@drawable/ab_transparent_mytab</item>
+        <item name="android:progressBarStyle">@style/ProgressBar.Mytab</item>
+    </style>
+    <style name="ActionBarTabStyle.Mytab" parent="@android:style/Widget.Holo.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_mytab</item>
+    </style>
+    <style name="ActionButton.CloseMode.Mytab" parent="@android:style/Widget.Holo.ActionButton.CloseMode">
+        <item name="android:background">@drawable/btn_cab_done_mytab</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="DropDownListView.Mytab" parent="@android:style/Widget.Holo.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background_mytab</item>
+    </style>
+    <style name="DropDownNav.Mytab" parent="@android:style/Widget.Holo.Spinner">
+        <item name="android:background">@drawable/spinner_background_ab_mytab</item>
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_mytab</item>
+        <item name="android:dropDownSelector">@drawable/selectable_background_mytab</item>
+    </style>
+    <style name="PopupMenu.Mytab" parent="@android:style/Widget.Holo.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_mytab</item>	
+    </style>
+    <style name="ProgressBar.Mytab" parent="@android:style/Widget.Holo.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_mytab</item>
+    </style>
+    <style name="Theme.Mytab" parent="@android:style/Theme.Holo">
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_mytab</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Mytab</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Mytab</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Mytab</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Mytab</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Transparent.Mytab</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_mytab</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_mytab</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Mytab</item>
+        
+        
+    </style>
+    <style name="Theme.Mytab.Widget" parent="@android:style/Theme.Holo">
+        <item name="android:popupMenuStyle">@style/PopupMenu.Mytab</item>
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Mytab</item>
+    </style>
+</resources>

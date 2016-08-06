@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.0.0"
+        sha1="0fd7244cad1e7e44c31b042395034b189ae3668c">
+        <dex dex="/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_011e71bdb2aae4bd2915b629a70dfe219b97866e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_d95225fbc484ebdc846f0b220385faa746ee289f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/artemlenskiy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_b61fb49a56c28c66c7b761ce78ec8707b7e52b5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_936555aa7f4389c393ae18a23c7026afc58cd3ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/artemlenskiy/Dropbox/Development/Android/Eye/libs/la4j-0.4.9.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.0.0"
+        sha1="092911f751e99fa0be2b5cd9fc2190816ed4648e">
+        <dex dex="/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/transforms/dex/debug/folders/1000/2/la4j-0.4.9_34a476d7bf3b5c30a49c012f2872d9dbbc3dfe14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/artemlenskiy/Dropbox/Development/Android/Eye/libs/achartengine-1.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.0.0"
+        sha1="b2bb0af9f390c0edd4d7d95f613f38da3abe0144">
+        <dex dex="/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/transforms/dex/debug/folders/1000/2/achartengine-1.0.0_f5ba139cd4d7bef32690e4fee5658c993a8bed1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.0.0"
+        sha1="3b2c88f0907ca2245685a625d9eea446445f1d6e">
+        <dex dex="/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a898f948fc1c03edd0b907184c69b85c4c3d0405/classes.dex" />
+    </item>
+
+</items>

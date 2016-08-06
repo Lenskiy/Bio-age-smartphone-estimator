@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/anim/zoom_exit.xml",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/res/anim/zoom_exit.xml"
+    },
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/anim/zoom_enter.xml",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/res/anim/zoom_enter.xml"
+    },
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/anim/fade.xml",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/res/anim/fade.xml"
+    },
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/anim/hold.xml",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/res/anim/hold.xml"
+    }
+]

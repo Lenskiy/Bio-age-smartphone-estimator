@@ -1,0 +1,11 @@
+	<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+	<item
+        android:id="@+id/b0tn1"
+        android:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_help"
+        android:title="도움말"/>
+	      
+
+</menu>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi,armeabi-v7a"
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    timestamp="558360302302600"
+    token="-1816820820386006740"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="130" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="104" />
+    <task
+        name="verifier"
+        duration="22" />
+
+    <artifact
+        location="/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/outputs/apk/Eye-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="558360302302600"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/outputs/apk/Eye-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

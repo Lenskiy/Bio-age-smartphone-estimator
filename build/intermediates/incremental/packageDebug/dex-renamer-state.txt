@@ -1,0 +1,7 @@
+#Sat Aug 06 15:56:46 AEST 2016
+base.0=/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a898f948fc1c03edd0b907184c69b85c4c3d0405
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_011e71bdb2aae4bd2915b629a70dfe219b97866e/classes.dex
+base.1=/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_011e71bdb2aae4bd2915b629a70dfe219b97866e
+file.0=/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a898f948fc1c03edd0b907184c69b85c4c3d0405/classes.dex

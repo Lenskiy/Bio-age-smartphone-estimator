@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/layout/activity_setting.xml",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/layout/activity_rgb.xml",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/res/layout/activity_rgb.xml"
+    },
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/layout/activity_result.xml",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/res/layout/activity_result.xml"
+    },
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/layout/list_view_row.xml",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/res/layout/list_view_row.xml"
+    },
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/layout/activity_timeline.xml",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/res/layout/activity_timeline.xml"
+    }
+]

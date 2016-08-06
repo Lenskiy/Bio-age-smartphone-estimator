@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/drawable/ab_background_textured_mytab.xml",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/res/drawable/ab_background_textured_mytab.xml"
+    },
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/drawable/brushed_alu.png",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/exploded-aar/Eye/GaugeView/unspecified/res/drawable/brushed_alu.png"
+    },
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/drawable/btn_cab_done_mytab.xml",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/res/drawable/btn_cab_done_mytab.xml"
+    },
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/drawable/tab_indicator_ab_mytab.xml",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/res/drawable/tab_indicator_ab_mytab.xml"
+    },
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/drawable/progress_horizontal_mytab.xml",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/res/drawable/progress_horizontal_mytab.xml"
+    },
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/drawable/brushed_alu2.png",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/exploded-aar/Eye/GaugeView/unspecified/res/drawable/brushed_alu2.png"
+    },
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/drawable/selectable_background_mytab.xml",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/res/drawable/selectable_background_mytab.xml"
+    },
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/drawable/spinner_background_ab_mytab.xml",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/res/drawable/spinner_background_ab_mytab.xml"
+    },
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/drawable/carbon_fibre.png",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/exploded-aar/Eye/GaugeView/unspecified/res/drawable/carbon_fibre.png"
+    },
+    {
+        "merged": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/res/merged/debug/drawable/light_alu.png",
+        "source": "/Users/artemlenskiy/Dropbox/Development/Android/Eye/build/intermediates/exploded-aar/Eye/GaugeView/unspecified/res/drawable/light_alu.png"
+    }
+]
