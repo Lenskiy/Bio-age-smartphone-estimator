@@ -46,6 +46,7 @@ dependencies {
 dependencies {
 //    compile fileTree(dir: 'libs', include: '*.jar')
     compile project(':GaugeView')
+    compile 'com.google.android.gms:play-services-appindexing:8.4.0'
 }
 
 buildscript {
@@ -53,7 +54,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.2.0-alpha7'
+        classpath 'com.android.tools.build:gradle:2.2.0-beta1'
     }
 }
 allprojects {
